@@ -1,0 +1,6 @@
+@HardikDhuri.WiiWatch.API_HostAddress = http://localhost:5003
+
+GET {{HardikDhuri.WiiWatch.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
